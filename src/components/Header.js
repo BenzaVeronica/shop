@@ -111,7 +111,7 @@ const Header = () => {
                           {TEXT.btns.login}
                         </Link>
 
-                        <Link className="dropdown-item" to="/registr">
+                        <Link className="dropdown-item" to="/register">
                           {TEXT.btns.register}
                         </Link>
                       </div>
@@ -195,7 +195,7 @@ const Header = () => {
                         {TEXT.btns.login}
                       </Link>
 
-                      <Link className="dropdown-item" to="/registr">
+                      <Link className="dropdown-item" to="/register">
                         {TEXT.btns.register}
                       </Link>
                     </div>
